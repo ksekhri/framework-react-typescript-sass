@@ -6,7 +6,7 @@ import reactIcon from './assets/images/react-icon.svg';
 function App() {
   return(
     <div className="App">
-      <h1>React App</h1>
+      <h1>React Typescript App</h1>
       <img src={reactIcon} height="200" width="200" />
     </div>
   );
