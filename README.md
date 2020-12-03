@@ -1,4 +1,4 @@
-# Framework: React.js, SASS
+# Framework: React.js, TypeScript, SASS
 
 ## Libraries
 ### Core
